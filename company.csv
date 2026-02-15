@@ -1,0 +1,61 @@
+Company_ID,Company_Name,Country,Region,Contract_Type,SLA_Tier,Active_Flag
+CMP0001,PharmaLife Sciences,USA,NA,Managed Services,Platinum,Yes
+CMP0002,HealthPlus Systems,Germany,EU,Managed Services,Platinum,Yes
+CMP0003,CloudNova Inc,Singapore,APAC,Full ITSM,Gold,Yes
+CMP0004,HealthPlus Systems,Canada,NA,Support Only,Platinum,Yes
+CMP0005,RetailMart Intl,UK,EU,Managed Services,Platinum,Yes
+CMP0006,HealthPlus Systems,Germany,EU,Full ITSM,Platinum,Yes
+CMP0007,PharmaLife Sciences,India,APAC,Managed Services,Bronze,Yes
+CMP0008,MediaWave Group,Singapore,APAC,Managed Services,Bronze,Yes
+CMP0009,EnergyGrid Co,Australia,APAC,Support Only,Silver,Yes
+CMP0010,FinServe Solutions,Singapore,APAC,Managed Services,Platinum,Yes
+CMP0011,LogiTrans Pvt Ltd,UK,EU,Full ITSM,Silver,Yes
+CMP0012,PharmaLife Sciences,Australia,APAC,Support Only,Bronze,Yes
+CMP0013,FinServe Solutions,Germany,EU,Support Only,Gold,Yes
+CMP0014,AeroTech Ltd,India,APAC,Support Only,Bronze,Yes
+CMP0015,GlobalBank Corp,USA,NA,Managed Services,Gold,No
+CMP0016,EnergyGrid Co,Canada,NA,Full ITSM,Platinum,No
+CMP0017,AeroTech Ltd,India,APAC,Managed Services,Bronze,Yes
+CMP0018,HealthPlus Systems,India,APAC,Managed Services,Silver,Yes
+CMP0019,EduSmart Services,India,APAC,Managed Services,Gold,Yes
+CMP0020,LogiTrans Pvt Ltd,Canada,NA,Full ITSM,Bronze,Yes
+CMP0021,CloudNova Inc,India,APAC,Managed Services,Platinum,Yes
+CMP0022,AutoMotiveX,Singapore,APAC,Managed Services,Platinum,No
+CMP0023,RetailMart Intl,Singapore,APAC,Managed Services,Gold,No
+CMP0024,AutoMotiveX,India,APAC,Managed Services,Gold,No
+CMP0025,MediaWave Group,Australia,APAC,Support Only,Platinum,Yes
+CMP0026,EduSmart Services,Germany,EU,Full ITSM,Gold,No
+CMP0027,EduSmart Services,Singapore,APAC,Full ITSM,Bronze,Yes
+CMP0028,EnergyGrid Co,USA,NA,Support Only,Gold,No
+CMP0029,EduSmart Services,Australia,APAC,Managed Services,Platinum,Yes
+CMP0030,GlobalBank Corp,Canada,NA,Full ITSM,Silver,Yes
+CMP0031,EnergyGrid Co,UK,EU,Support Only,Platinum,Yes
+CMP0032,HealthPlus Systems,India,APAC,Full ITSM,Platinum,Yes
+CMP0033,MediaWave Group,Singapore,APAC,Support Only,Bronze,Yes
+CMP0034,RetailMart Intl,Canada,NA,Support Only,Gold,No
+CMP0035,GlobalBank Corp,Germany,EU,Managed Services,Bronze,No
+CMP0036,EnergyGrid Co,UK,EU,Support Only,Bronze,No
+CMP0037,LogiTrans Pvt Ltd,India,APAC,Managed Services,Silver,Yes
+CMP0038,RetailMart Intl,Canada,NA,Full ITSM,Platinum,No
+CMP0039,AutoMotiveX,India,APAC,Managed Services,Gold,Yes
+CMP0040,MediaWave Group,India,APAC,Support Only,Platinum,Yes
+CMP0041,LogiTrans Pvt Ltd,Germany,EU,Support Only,Platinum,No
+CMP0042,MediaWave Group,Germany,EU,Managed Services,Silver,Yes
+CMP0043,EnergyGrid Co,India,APAC,Support Only,Silver,Yes
+CMP0044,MediaWave Group,Canada,NA,Support Only,Bronze,No
+CMP0045,GlobalBank Corp,Singapore,APAC,Full ITSM,Gold,Yes
+CMP0046,HealthPlus Systems,Canada,NA,Support Only,Platinum,No
+CMP0047,FinServe Solutions,India,APAC,Managed Services,Bronze,No
+CMP0048,LogiTrans Pvt Ltd,Germany,EU,Support Only,Bronze,Yes
+CMP0049,MediaWave Group,Australia,APAC,Support Only,Silver,Yes
+CMP0050,GlobalBank Corp,USA,NA,Full ITSM,Platinum,Yes
+CMP0051,AutoMotiveX,Germany,EU,Full ITSM,Platinum,No
+CMP0052,FinServe Solutions,Australia,APAC,Managed Services,Platinum,Yes
+CMP0053,GlobalBank Corp,Australia,APAC,Managed Services,Bronze,Yes
+CMP0054,MediaWave Group,Canada,NA,Full ITSM,Gold,Yes
+CMP0055,CloudNova Inc,India,APAC,Support Only,Bronze,Yes
+CMP0056,CloudNova Inc,Canada,NA,Support Only,Bronze,Yes
+CMP0057,RetailMart Intl,Australia,APAC,Managed Services,Bronze,Yes
+CMP0058,EduSmart Services,Singapore,APAC,Support Only,Gold,Yes
+CMP0059,CloudNova Inc,Australia,APAC,Full ITSM,Platinum,Yes
+CMP0060,RetailMart Intl,Australia,APAC,Support Only,Platinum,Yes
